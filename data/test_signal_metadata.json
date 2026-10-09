@@ -1,0 +1,6 @@
+{
+  "sample_rate_hz": 8000,
+  "adc_bits": 10,
+  "sample_count": 40000,
+  "duration_seconds": 5
+}

@@ -1,0 +1,16 @@
+# process_audio.py
+
+# load_data()
+# Read ADC values from a CSV file.
+
+# remove_dc_offset()
+# Calculate the mean and subtract it from the samples.
+
+# normalize_audio()
+# Scale the values into a suitable audio range.
+
+# save_wav()
+# Convert to 16-bit PCM and write the WAV file.
+
+# main()
+# Connect all the functions together.
